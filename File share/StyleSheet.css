@@ -1,0 +1,257 @@
+﻿body {
+}
+.menu
+{
+    border-bottom-left-radius:10px;
+    border-bottom-right-radius:10px;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+    margin:10px auto;
+     height:121px;
+     width:auto;
+     background-image:url('header.jpg');
+     font-family:cursive;
+     margin-left:20px auto;
+     margin-right:20px auto;
+    
+}
+.name {
+    position:absolute;
+    margin-top:30px;
+    margin-left:290px;
+    font-size:30px;
+}
+.namebox {
+    position:absolute;
+    background:#f5f5f5;
+    margin-top:32px;
+    margin-left:535px;
+    
+    font-size:20px;
+   
+    border-radius: 3px;
+    
+    padding: 10px 25px;
+    width:330px;
+   
+    box-shadow: inset 0 2px 3px rgba( 0, 0, 0, 0.1 );
+    
+}
+.lastname {
+    position:absolute;
+    margin-top:70px;
+    margin-left:290px;
+    font-size:30px;
+}
+.lastnamebox {
+    position:absolute;
+    background:#f5f5f5;
+    margin-top:70px;
+    margin-left:535px;
+    
+    font-size:20px;
+   
+    border-radius: 3px;
+    
+    padding: 10px 25px;
+    width:330px;
+   
+    box-shadow: inset 0 2px 3px rgba( 0, 0, 0, 0.1 );
+
+}
+.phone {
+    position:absolute;
+    margin-top:110px;
+    margin-left:290px;
+    font-size:30px;
+}
+.phonebox {
+    position:absolute;
+    background:#f5f5f5;
+    margin-top:108px;
+    margin-left:535px;
+    
+    font-size:20px;
+   
+    border-radius: 3px;
+    
+    padding: 10px 25px;
+    width:330px;
+   
+    box-shadow: inset 0 2px 3px rgba( 0, 0, 0, 0.1 );
+
+}
+.emails {
+      position:absolute;
+    margin-top:150px;
+    margin-left:290px;
+    font-size:30px;
+}
+.emailbox {
+    position:absolute;
+    background:#f5f5f5;
+    margin-top:146px;
+    margin-left:535px;
+    font-size:20px;
+    border-radius: 3px;
+    padding: 10px 25px;
+    width:330px;
+    box-shadow: inset 0 2px 3px rgba( 0, 0, 0, 0.1 );
+}
+.pass {
+    position:absolute;
+    margin-top:190px;
+    margin-left:290px;
+    font-size:30px;
+
+}
+.passbox {
+    position:absolute;
+    background:#f5f5f5;
+    margin-top:184px;
+    margin-left:535px;
+    font-size:20px;
+    border-radius: 3px;
+    padding: 10px 25px;
+    width:330px;
+    box-shadow: inset 0 2px 3px rgba( 0, 0, 0, 0.1 );
+}
+.conpass {
+    position:absolute;
+    margin-top:230px;
+    margin-left:290px;
+    font-size:30px;
+
+}
+.conpassbox {
+    position:absolute;
+    background:#f5f5f5;
+    margin-top:222px;
+    margin-left:535px;
+    font-size:20px;
+    border-radius: 3px;
+    padding: 10px 25px;
+    width:330px;
+    box-shadow: inset 0 2px 3px rgba( 0, 0, 0, 0.1 );
+}
+.submit_button {
+    position:absolute;
+    background-color:green;
+    margin-top:290px;
+    margin-left:640px;
+    cursor:pointer;
+	color:#fff;
+	font-family:'Helvetica Neue',sans-serif;
+	font-size:18px;
+	line-height:30px;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border:0;
+	text-shadow:#C17C3A 0 -1px 0;
+	width:120px;
+	height:32px
+   
+    
+}
+.reset_button {
+    position:absolute;
+     background-color:black;
+    margin-top:290px;
+    margin-left:500px;
+    cursor:pointer;
+	color:#fff;
+	font-family:'Helvetica Neue',sans-serif;
+	font-size:18px;
+	line-height:30px;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border:0;
+	text-shadow:#C17C3A 0 -1px 0;
+	width:120px;
+	height:32px
+}
+.rtext1 {
+    position:absolute;
+    margin-left:600px;
+    margin-top:70px;
+}
+.rtext2 {
+    position:absolute;
+    margin-left:600px;
+    margin-top:105px;
+}
+.rtext3 {
+    position:absolute;
+    margin-left:600px;
+    margin-top:140px;
+}
+.rtext4 {
+    position:absolute;
+    margin-left:600px;
+    margin-top:175px;
+}
+.rtext5 {
+    position:absolute;
+    margin-left:600px;
+    margin-top:215px;
+}
+.rtext6 {
+    position:absolute;
+    margin-left:600px;
+    margin-top:255px;
+}
+
+.passs
+{
+    position:absolute;
+    margin-left:600px;
+    margin-top:250px;
+}
+.namee
+{
+     position:absolute;
+    margin-left:600px;
+    margin-top:100px;
+}
+.remember
+{
+    margin-left:600px;
+    margin-bottom:100px;
+    color:black;
+}
+.logout_button
+{
+    margin-left:600px auto;
+
+}
+.img
+{
+ 
+   position:absolute;
+    top: 249px;
+    left: 124px;
+    width: 989px;
+    height: 431px;
+}
+
+#blanket {
+background-color:#111;
+opacity: 0.65;
+*background:none;
+position:absolute;
+z-index: 9001;
+top:0px;
+left:0px;
+width:100%;
+}
+
+#popUpDiv {
+position:absolute;
+background:url(header.jpg) no-repeat;
+width:400px;
+height:400px;
+border:5px solid #000;
+z-index: 9002;
+} 
